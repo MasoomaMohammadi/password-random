@@ -1,0 +1,21 @@
+body {
+  height: 100vh;
+}
+span {
+  font-size: 25px;
+  font-weight: bold;
+}
+input {
+  font-weight: bold;
+  font-size: 30px !important;
+}
+input[type="checkbox"] {
+  width: 30px;
+  height: 30px;
+}
+label.form-check-label {
+  font-size: 25px;
+}
+/* button {
+  text-align:center;
+} */
