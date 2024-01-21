@@ -1,1 +1,2 @@
-It is template password-random that I make with Javascript bootstrap and it has some buttons that we can click on... also it was gratgreat for me😍 
+It is template password-random that I make with Javascript and bootstrap. It has some buttons that we can click on... 
+also it was great for me😍 
